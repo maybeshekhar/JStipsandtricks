@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #f4cb01;
+    overflow: hidden;
+}
+
+.bg-body-tertiary{
+    background-color: #f4cb01;
+    overflow: hidden;
+}
+
+
+@media screen and (max-width: 768px) {
+    .navbar{
+        width: 100%;
+    }
+}
